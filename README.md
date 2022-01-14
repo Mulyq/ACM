@@ -6,7 +6,7 @@ If you can't understand Chinese, you can use Google Translate.
 
 &nbsp;
 
-==The general content includes :==
+The general content includes :
 
 **&emsp;1.Basic Algorithm  (基础算法)**
 
@@ -32,4 +32,3 @@ If you can't understand Chinese, you can use Google Translate.
 
 By the way, I like **Elaina** very much.
 
-![86272637_p0](C:\Users\Moniq\Pictures\picture\伊雷娜\86272637_p0.jpg)
