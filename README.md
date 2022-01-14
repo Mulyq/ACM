@@ -8,8 +8,7 @@ If you can't understand Chinese, you can use Google Translate.
 
 The general content includes :
 
-**&emsp;1.Basic Algorithm  (基础算法)**
-(https://github.com/Mulyq/ACM/blob/main/%E5%9F%BA%E7%A1%80%E7%AE%97%E6%B3%95%E6%9D%BF%E5%AD%90.md)
+&emsp;[1.Basic Algorithm  (基础算法)](https://github.com/Mulyq/ACM/blob/main/%E5%9F%BA%E7%A1%80%E7%AE%97%E6%B3%95%E6%9D%BF%E5%AD%90.md)
 
 **&emsp;2.Basic Data structure  (基础数据结构)**
 (https://github.com/Mulyq/ACM/blob/main/%E5%9F%BA%E7%A1%80%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84.md)
