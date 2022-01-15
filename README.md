@@ -1,4 +1,4 @@
-Frist,you can see a Folder, which has all of my .cpp file about algorithm problem.
+Frist, you can see a Folder, which has all of my .cpp file about algorithm problem.
 
 And other Markdown file are my notes about study in algorithm.
 
@@ -21,7 +21,7 @@ The general content includes :
 
 &emsp;&emsp;[6.other  (零碎)](https://github.com/Mulyq/ACM/blob/main/%E9%9B%B6%E7%A2%8E.md)
 
-&nbsp;
+If you find any mistakes, please point them, I'd like to Modify them in time.
 
 &nbsp;
 
@@ -34,4 +34,4 @@ The general content includes :
 
 By the way, I like **Elaina** very much.
 
-![image](https://github.com/Mulyq/private/blob/main/Elaina.jpg)
+![image](https://github.com/Mulyq/private/blob/main/pictures/Elaina.jpg)
