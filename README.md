@@ -34,5 +34,5 @@ If you find any mistakes, please point them, I'd like to Modify them in time.
 
 By the way, I like **Elaina** very much.
 
-![image](https://raw.githubusercontent.com/Mulyq/private/main/pictures/Elaina.jpg?token=GHSAT0AAAAAABQSGIBZOH2FCH2GDDGRPAUKYPFLA5Q)
+![image](https://github.com/Mulyq/private/blob/main/pictures/Elaina.jpg)
 
