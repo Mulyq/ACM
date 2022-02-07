@@ -32,7 +32,5 @@ If you find any mistakes, please point them, I'd like to Modify them in time.
 &nbsp;
 ==
 
-By the way, I like **Elaina** very much.
-
 ![image](https://github.com/Mulyq/private/blob/main/pictures/Elaina.jpg)
 

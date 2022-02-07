@@ -15,10 +15,6 @@ next_permutation(begin(p), end(p));
 
 元组tuple
 
-```cpp
-一个类似struct/classd
-```
-
 
 
 生成从0开始递增的序列	iota
